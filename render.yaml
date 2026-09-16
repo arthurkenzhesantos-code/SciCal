@@ -1,7 +1,0 @@
-services:
-  - type: web
-    name: scientific-calculator
-    runtime: static
-    buildCommand: ""
-    staticPublishPath: .
-    pullRequestPreviewsEnabled: true
